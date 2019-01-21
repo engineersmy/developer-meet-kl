@@ -25,6 +25,8 @@ Here is a list of user groups that you can attend to meet people or learn things
   * [Arduino Malaysia group](https://www.facebook.com/groups/arduinomalaysia/)
 * Civic Tech
   * [Sinar Project](https://sinarproject.org) - they use technology for gov transparency
+* Javascript
+  * [Javascript Malaysia faceook page](https://www.facebook.com/groups/javascript.my/)
 
 ## Conference in Malaysia
 
