@@ -15,6 +15,16 @@ Here is a list of user groups that you can attend to meet people or learn things
   * [Facebook group](https://www.facebook.com/groups/mygolang/) - this is also where you can find announcement on event.
 * Devlops Malaysia
   * [Meetup Page](https://www.meetup.com/DevOpsMalaysia/) - The event page of the meetup
+* R User Group Malaysia aka UseR Malaysia
+  * [Facebook page](https://www.facebook.com/groups/useRmalaysia/?ref=br_rs) - Their facebook page.
+* Women Who Code Malaysia
+  * [Facebook page](https://www.facebook.com/womenwhocodekl/?ref=br_rs) - the facebook page
+* Jomweb, Malay language focused developer info
+  * [Facebook group](https://www.facebook.com/groups/jomweb/)
+* Arduino group
+  * [Arduino Malaysia group](https://www.facebook.com/groups/arduinomalaysia/)
+* Civic Tech
+  * [Sinar Project](https://sinarproject.org) - they use technology for gov transparency
 
 ## Conference in Malaysia
 
