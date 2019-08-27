@@ -19,14 +19,27 @@ Here is a list of user groups that you can attend to meet people or learn things
   * [Facebook page](https://www.facebook.com/groups/useRmalaysia/?ref=br_rs) - Their facebook page.
 * Women Who Code Malaysia
   * [Facebook page](https://www.facebook.com/womenwhocodekl/?ref=br_rs) - the facebook page
-* Jomweb, Malay language focused developer info
+* Programming Laman Web + UI/UX, Malay language focused developer info *Probably the largest developer group in Malaysia*
   * [Facebook group](https://www.facebook.com/groups/jomweb/)
 * Arduino group
   * [Arduino Malaysia group](https://www.facebook.com/groups/arduinomalaysia/)
 * Civic Tech
   * [Sinar Project](https://sinarproject.org) - they use technology for gov transparency
 * Javascript
+  * [KualaLumpurJS facebook group](https://www.facebook.com/groups/kualalumpurjs) - Organised monthly meetup called KLJS as of Aug 2019
   * [Javascript Malaysia faceook page](https://www.facebook.com/groups/javascript.my/)
+  * [ReactJS ReactNative Malaysia facebook group](https://www.facebook.com/groups/766491493448337)
+  * [Angular Malaysia facebook group](https://www.facebook.com/groups/959601730804414)
+* WebCamp KL
+  * [Facebook group](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development.
+* E-wallet Malaysia
+  * [Facebook group](https://www.facebook.com/groups/ewalletmalaysia) - E-wallet Malaysia discussion by ecInsider, with a mix of consumer, e-wallet provider, developers, credit card users
+* Fintech Malaysia
+  * [Facebook group](https://www.facebook.com/groups/1952619934822050) - Fintech develeper discussion by Revenue Monster
+* WCKL Jobs
+  * [Facebook group](https://www.facebook.com/groups/wckljobs/) - Hire or get hired here. Mostly web development jobs around KL.
+* Junior Dev 
+  * [Meetup page](https://www.meetup.com/Junior-Developers-Malaysia/) - monthly meetup with mostly junior/student dev attending and related topics 
 
 ## Conference in Malaysia
 
