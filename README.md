@@ -28,6 +28,7 @@ Here is a list of user groups that you can attend to meet people or learn things
 * Javascript
   * [KualaLumpurJS facebook group](https://www.facebook.com/groups/kualalumpurjs) - Organised monthly meetup called KLJS as of Aug 2019
   * [Javascript Malaysia faceook page](https://www.facebook.com/groups/javascript.my/)
+  * [KL React Meetup](https://www.meetup.com/kl-react/) - Monthly meetup and Clinic session where you can get help on React related problem you faced
   * [ReactJS ReactNative Malaysia facebook group](https://www.facebook.com/groups/766491493448337)
   * [Angular Malaysia facebook group](https://www.facebook.com/groups/959601730804414)
 * WebCamp KL
