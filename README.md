@@ -40,6 +40,8 @@ Here is a list of user groups that you can attend to meet people or learn things
   * [Facebook group](https://www.facebook.com/groups/wckljobs/) - Hire or get hired here. Mostly web development jobs around KL.
 * Junior Dev 
   * [Meetup page](https://www.meetup.com/Junior-Developers-Malaysia/) - monthly meetup with mostly junior/student dev attending and related topics 
+* EngineersMY 
+  * [Teh Tarik n Code](https://tehtarik-n-code.github.io/) - monthly social meet-up for people who work in tech, no fixed agenda. 
 
 ## Conference in Malaysia
 
