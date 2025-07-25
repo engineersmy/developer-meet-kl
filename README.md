@@ -13,7 +13,7 @@ Here is a list of user groups that you can attend to meet people or learn things
   * [Facebook group](https://www.facebook.com/groups/python.malaysia/) - The facebook group
 * Golang Malaysia
   * [Facebook group](https://www.facebook.com/groups/mygolang/) - this is also where you can find announcement on event.
-* Devlops Malaysia
+* DevOps Malaysia
   * [Meetup Page](https://www.meetup.com/DevOpsMalaysia/) - The event page of the meetup
 * R User Group Malaysia aka UseR Malaysia
   * [Facebook page](https://www.facebook.com/groups/useRmalaysia/?ref=br_rs) - Their facebook page.
